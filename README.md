@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maitri-16
-- 👀 I’m interested in ...DATA SCIENCE , MACHINE LEARNING
+- 👀 I’m interested in ...DATA SCIENCE , MACHINE LEARNING , DEEP LEARNING
 - 🌱 I’m currently learning ... DATA SCIENCE
 - 💞️ I’m looking to collaborate on ... VARIOUS DS , ML AND DEEP LEARNING PROJECTS AND INTERNSHIPS.
 - 📫 How to reach me ...maitrisurve1609@gmail.com
